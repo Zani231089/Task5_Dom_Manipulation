@@ -1,8 +1,14 @@
 h5{
-    text-align: center;
+    text-align: left;
 }
 
 .card{
     margin-top: 100px;
     margin-left: 100px;
+}
+
+.heart{
+    margin-top: -40px;
+    margin-left: 220px;
+    margin-bottom: 10px;
 }
